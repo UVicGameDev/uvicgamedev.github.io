@@ -23,7 +23,8 @@ Developed by Brandon Duncan.""",
 ("Auction Boxing",
 """<img src=\"abpreview.png\"><br/>
 A smash bros-like fighting game with unique characters and abilities.
-Before each fight, you participate in an auction where you are able to buy items for your fight.""",
+Before each fight, you participate in an auction where you are able to buy items for your fight.
+Developed by Nick Pettyjohn and others (who?)""",
 "<a href=\"https://github.com/NarPar/AuctionBoxing\">github repository</a>"),
 
 ("TODO: Good hydrations",
