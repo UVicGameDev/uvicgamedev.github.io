@@ -84,7 +84,7 @@ for game in games:
 
     print("<hr/>")
     escapedHeader = gameHeader.replace(' ', '_')
-    print("<h2 id=\"#%s\">%s</h2>" %
+    print("<h2 id=\"%s\">%s</h2>" %
         (escapedHeader, gameHeader))
 
     print("<p>")
