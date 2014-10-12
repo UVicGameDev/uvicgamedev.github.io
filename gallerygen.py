@@ -42,6 +42,12 @@ A mix of platforming and physics based puzzle themed about love and rock and rol
 Developed by Brandon Duncan and Nicolas Guillemot (more credits on the github page.)""",
 "<a href=\"https://github.com/nguillemot/rock-n-roll-soul\">github repository</a>"),
 
+("Alone",
+"""<img src=\"alonepreview.jpg\"><br/>
+An artsie game with the theme \"Alone\".
+Developed by Nicolas Guillemot.""",
+"<a href=\"https://github.com/nguillemot/LD22-Alone\">github repository</a>")
+
 ] # End of games list
 
 # =================================================
