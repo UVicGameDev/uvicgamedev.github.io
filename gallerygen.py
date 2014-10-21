@@ -49,6 +49,16 @@ An artsie game with the theme \"Alone\".
 Developed by Nicolas Guillemot.""",
 "<a href=\"https://github.com/nguillemot/LD22-Alone\">github repository</a>")
 
+("Credens Divinitatis",
+"""<img src=\"credenspreview.gif\"><br/>
+An scrolling shooter made in 72 hours for the 2013 Tsukino-Con Game Jam. The theme for the jam was Magical Girls.<br/>
+Developed by Jason Lim.""", "")
+
+("Slimageddon",
+"""<img src=\"slimageddonpreview.png\"><br/>
+A Katamari style game made in 72 hours during the UVIC GameDev Spring 2014 Game Jam. Players control a small slime that absorbs objects in the world around it to get bigger. Getting bigger allows the slime to absorb bigger objects and even buildings!<br/>
+Developed by Jason Lim.""", "")
+
 ] # End of games list
 
 # =================================================
