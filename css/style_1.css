@@ -50,11 +50,10 @@ a:active {
 }
 
 #HeaderImage {
-	position: inherit;
-	width: 15%;
-	left: inherit;
-	top: inherit;
+	width: 256px;
+	top: 0;
 	padding-left: 48px;
+	
 }
 
 #MainContent {
