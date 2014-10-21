@@ -1,8 +1,5 @@
-<header>
 UVGD Project Gallery
 =======
-</header>
-<main>
 Games made by the UVic Game Development club, collected in one place for your viewing pleasure.
 
 [back to main page](../index.html)
@@ -84,5 +81,3 @@ Getting bigger allows the slime to absorb bigger objects and even buildings!
 Developed by Jason Lim.
 
 TODO: Download link of some kind?
-
-</main>
