@@ -1,0 +1,80 @@
+/* Styles */
+
+body {
+	background-color: #222222;
+	color: #FFFFFF;
+	width: 50%;
+	top: 128px;
+}
+
+a {
+	background-color: #333333;
+}
+
+/* unvisited link */
+a:link {
+    color: #FFFFFF;
+}
+
+/* visited link */
+a:visited {
+    color: #DDDDDD;
+}
+
+/* mouse over link */
+a:hover {
+    color: #AA0000;
+	text-shadow:
+     -1px -1px 0 #440,  
+      1px -1px 0 #440,
+      -1px 1px 0 #440,
+       1px 1px 0 #440;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
+
+
+/* Identities */
+#Header {
+	background-color: #000000;
+	color: #FFFFFF;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+
+	z-index: 10;
+}
+
+#HeaderImage {
+	position: inherit;
+	width: 15%;
+	left: inherit;
+	top: inherit;
+	padding-left: 48px;
+}
+
+#MainContent {
+	/* background-color: #666666; */
+	border-style: solid none solid none;
+	border-width: 4px;
+	border-color: #666666;
+	position: absolute;
+	top: 128px;
+	left : 25%;
+	width: 50%;
+	height: 600px;
+}
+
+/* Classes */
+.Indent {
+	margin-left: 5em;
+	border-left-style: dotted;
+	border-left-width: 3px;
+	border-left-color: #666666;
+	padding-left: 1em;
+	
+}
