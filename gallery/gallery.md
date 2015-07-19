@@ -67,7 +67,7 @@ The theme for the jam was Magical Girls.
 
 Developed by Jason Lim.
 
-TODO: Download link of some kind?
+[github repository](https://github.com/JasonL663/CredensDivinitatis)
 
 Slimageddon
 -----------
@@ -80,4 +80,4 @@ Getting bigger allows the slime to absorb bigger objects and even buildings!
 
 Developed by Jason Lim.
 
-TODO: Download link of some kind?
+[github repository](https://github.com/JasonL663/Slimageddon)
