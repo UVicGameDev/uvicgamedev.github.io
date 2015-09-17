@@ -50,6 +50,7 @@ a:active {
 }
 
 #HeaderImage {
+	display: block;
 	width: 256px;
 	top: 0;
 	padding-left: 48px;
