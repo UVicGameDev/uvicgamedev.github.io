@@ -13,27 +13,27 @@ a {
 
 /* unvisited link */
 a:link {
-    color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 /* visited link */
 a:visited {
-    color: #DDDDDD;
+	color: #DDDDDD;
 }
 
 /* mouse over link */
 a:hover {
-    color: #AA0000;
+	color: #AA0000;
 	text-shadow:
-     -1px -1px 0 #440,  
-      1px -1px 0 #440,
-      -1px 1px 0 #440,
-       1px 1px 0 #440;
+	 -1px -1px 0 #440,
+	  1px -1px 0 #440,
+	  -1px 1px 0 #440,
+	   1px 1px 0 #440;
 }
 
 /* selected link */
 a:active {
-    color: #0000FF;
+	color: #0000FF;
 }
 
 
@@ -50,10 +50,10 @@ a:active {
 }
 
 #HeaderImage {
+	display: block;
 	width: 256px;
 	top: 0;
 	padding-left: 48px;
-	
 }
 
 #MainContent {
@@ -75,7 +75,6 @@ a:active {
 	border-left-width: 3px;
 	border-left-color: #666666;
 	padding-left: 1em;
-	
 }
 
 .Icon {
